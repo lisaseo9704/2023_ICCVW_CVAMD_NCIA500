@@ -54,7 +54,7 @@ python3 demo_coco_gcn.py data/coco --image-size 448 --batch-size 32 -e --resume 
 ```
 
 ## Citing this repository
-If you find this code useful in your research, please consider citing us:
+If you find this code useful in your research, please consider citing us and the following:
 
 ```
 @inproceedings{ML-GCN_CVPR_2019,
